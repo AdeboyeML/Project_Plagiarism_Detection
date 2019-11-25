@@ -8,7 +8,7 @@ In this project, you will be tasked with building a plagiarism detector that exa
 
 ## Libraries and Frameworks
 
-The libraries and machine learning frameworks utilized for this projects includes: **Numpy, Pytorch, and Amazon SageMaker.**
+The libraries and machine learning frameworks utilized for this projects includes: **Pandas, Numpy, Pytorch, and Amazon SageMaker.**
 
 This project will be broken down into three main notebooks:
 
